@@ -1,0 +1,145 @@
+key,value,time
+Performance,12,0:00
+Performance,5,1:00
+Performance,2,2:00
+Performance,1,3:00
+Performance,0,4:00
+Performance,0,5:00
+Performance,0,6:00
+Performance,0,7:00
+Performance,3,8:00
+Performance,5,9:00
+Performance,8,10:00
+Performance,9,11:00
+Performance,4,12:00
+Performance,6,13:00
+Performance,7,14:00
+Performance,9,15:00
+Performance,11,16:00
+Performance,13,17:00
+Performance,16,18:00
+Performance,18,19:00
+Performance,19,20:00
+Performance,20,21:00
+Performance,20,22:00
+Performance,16,23:00
+Academic,4,0:00
+Academic,3,1:00
+Academic,1,2:00
+Academic,1,3:00
+Academic,0,4:00
+Academic,0,5:00
+Academic,0,6:00
+Academic,1,7:00
+Academic,5,8:00
+Academic,5,9:00
+Academic,12,10:00
+Academic,12,11:00
+Academic,10,12:00
+Academic,8,13:00
+Academic,12,14:00
+Academic,12,15:00
+Academic,12,16:00
+Academic,12,17:00
+Academic,12,18:00
+Academic,10,19:00
+Academic,6,20:00
+Academic,5,21:00
+Academic,5,22:00
+Academic,3,23:00
+Residential,8,0:00
+Residential,9,1:00
+Residential,6,2:00
+Residential,3,3:00
+Residential,3,4:00
+Residential,3,5:00
+Residential,5,6:00
+Residential,7,7:00
+Residential,8,8:00
+Residential,8,9:00
+Residential,6,10:00
+Residential,5,11:00
+Residential,4,12:00
+Residential,3,13:00
+Residential,1,14:00
+Residential,1,15:00
+Residential,1,16:00
+Residential,1,17:00
+Residential,3,18:00
+Residential,4,19:00
+Residential,6,20:00
+Residential,7,21:00
+Residential,7,22:00
+Residential,9,23:00
+Commercial,0,0:00
+Commercial,0,1:00
+Commercial,0,2:00
+Commercial,0,3:00
+Commercial,0,4:00
+Commercial,0,5:00
+Commercial,0,6:00
+Commercial,0,7:00
+Commercial,1,8:00
+Commercial,2,9:00
+Commercial,3,10:00
+Commercial,4,11:00
+Commercial,5,12:00
+Commercial,5,13:00
+Commercial,6,14:00
+Commercial,10,15:00
+Commercial,9,16:00
+Commercial,9,17:00
+Commercial,8,18:00
+Commercial,7,19:00
+Commercial,6,20:00
+Commercial,2,21:00
+Commercial,0,22:00
+Commercial,0,23:00
+Admin,0,0:00
+Admin,0,1:00
+Admin,0,2:00
+Admin,0,3:00
+Admin,0,4:00
+Admin,0,5:00
+Admin,0,6:00
+Admin,0,7:00
+Admin,0,8:00
+Admin,3,9:00
+Admin,4,10:00
+Admin,5,11:00
+Admin,5,12:00
+Admin,3,13:00
+Admin,3,14:00
+Admin,5,15:00
+Admin,5,16:00
+Admin,5,17:00
+Admin,5,18:00
+Admin,5,19:00
+Admin,4,20:00
+Admin,4,21:00
+Admin,1,22:00
+Admin,0,23:00
+Street Access,3,0:00
+Street Access,2,1:00
+Street Access,1,2:00
+Street Access,0,3:00
+Street Access,0,4:00
+Street Access,0,5:00
+Street Access,0,6:00
+Street Access,0,7:00
+Street Access,1,8:00
+Street Access,2,9:00
+Street Access,3,10:00
+Street Access,4,11:00
+Street Access,5,12:00
+Street Access,2,13:00
+Street Access,3,14:00
+Street Access,4,15:00
+Street Access,6,16:00
+Street Access,7,17:00
+Street Access,7,18:00
+Street Access,5,19:00
+Street Access,3,20:00
+Street Access,4,21:00
+Street Access,3,22:00
+Street Access,3,23:00
